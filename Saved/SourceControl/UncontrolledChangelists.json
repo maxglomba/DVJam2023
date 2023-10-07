@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/DVJam2023/Content/Config/Gi_Jam.uasset",
+				"E:/DVJam2023/Content/Maps/TestMap.umap",
+				"E:/DVJam2023/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/DVJam2023/Content/Personajes/I-MAN.uasset",
+				"E:/DVJam2023/Content/Maps/Menu_Principal.umap",
+				"E:/DVJam2023/Content/Maps/Nivel_1.umap",
+				"E:/DVJam2023/Content/Objetos/Obj_Interface.uasset",
+				"E:/DVJam2023/Content/Objetos/Est_Objeto.uasset",
+				"E:/DVJam2023/Content/Objetos/Objeto_Base.uasset",
 				"F:/Unreal Projects/DVJam2023/Content/Maps/TestMap.umap"
 			]
 		}
