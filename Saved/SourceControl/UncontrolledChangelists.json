@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"F:/Unreal Projects/DVJam2023/Content/Maps/TestMap.umap",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Materiales/BaseColor.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Materiales/Material.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Maps/Menu_Principal.umap",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/skeleton_idle.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/skeleton_idle_Skeleton.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/skeleton_idle_PhysicsAsset.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Animaciones/brazo_azul.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Animaciones/brazo_rojo.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Animaciones/dancing_win.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Animaciones/falling.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Animaciones/jumping_up.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Animaciones/landing_1.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Animaciones/run.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Animaciones/sad_lose.uasset",
+				"F:/Unreal Projects/DVJam2023/Content/Characters/I-MAN/Animaciones/walk.uasset",
 				"E:/DVJam2023/Content/Config/Gi_Jam.uasset",
 				"E:/DVJam2023/Content/Maps/TestMap.umap",
 				"E:/DVJam2023/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
@@ -13,8 +29,7 @@
 				"E:/DVJam2023/Content/Maps/Nivel_1.umap",
 				"E:/DVJam2023/Content/Objetos/Obj_Interface.uasset",
 				"E:/DVJam2023/Content/Objetos/Est_Objeto.uasset",
-				"E:/DVJam2023/Content/Objetos/Objeto_Base.uasset",
-				"F:/Unreal Projects/DVJam2023/Content/Maps/TestMap.umap"
+				"E:/DVJam2023/Content/Objetos/Objeto_Base.uasset"
 			]
 		}
 	]
