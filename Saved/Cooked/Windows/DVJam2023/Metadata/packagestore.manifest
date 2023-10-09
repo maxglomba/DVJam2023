@@ -553,8 +553,20 @@
 			"ChunkId": "d6df88829494ad9500000001"
 		},
 		{
+			"Path": "DVJam2023/Content/Widgets/Interface/boton2_azul.uasset",
+			"ChunkId": "5cc7841e6b78bc1500000001"
+		},
+		{
+			"Path": "DVJam2023/Content/Widgets/Interface/boton3_amarillo.uasset",
+			"ChunkId": "055fcffa60ff7d5f00000001"
+		},
+		{
 			"Path": "DVJam2023/Content/Widgets/Interface/boton_cuadrado1_amarillo.uasset",
 			"ChunkId": "de8aa49edca8bf2500000001"
+		},
+		{
+			"Path": "DVJam2023/Content/Widgets/Interface/Controles.uasset",
+			"ChunkId": "1bd14a34cac974d300000001"
 		},
 		{
 			"Path": "DVJam2023/Content/Widgets/Interface/dialogo.uasset",
@@ -573,6 +585,10 @@
 			"ChunkId": "bb19e7f63a511ef500000001"
 		},
 		{
+			"Path": "DVJam2023/Content/Widgets/Interface/modal_chico_amarillo.uasset",
+			"ChunkId": "b7f35472e63f928500000001"
+		},
+		{
 			"Path": "DVJam2023/Content/Widgets/Interface/modal_chico_azul.uasset",
 			"ChunkId": "7ddd9e780468b73b00000001"
 		},
@@ -587,6 +603,18 @@
 		{
 			"Path": "DVJam2023/Content/Widgets/Interface/silueta2.uasset",
 			"ChunkId": "131819017dfddb2e00000001"
+		},
+		{
+			"Path": "DVJam2023/Content/Widgets/Menu_cfg.uasset",
+			"ChunkId": "333217741e6e513000000001"
+		},
+		{
+			"Path": "DVJam2023/Content/Widgets/W_controles.uasset",
+			"ChunkId": "5aeb5ebe8f9e709800000001"
+		},
+		{
+			"Path": "DVJam2023/Content/Widgets/W_creditos.uasset",
+			"ChunkId": "ca02bc9b61332fb000000001"
 		},
 		{
 			"Path": "DVJam2023/Content/Widgets/W_fin.uasset",
@@ -627,10 +655,6 @@
 		{
 			"Path": "Engine/Content/Animation/DefaultRecorderBoneCompression.uasset",
 			"ChunkId": "3cb0431e18cb83db00000001"
-		},
-		{
-			"Path": "Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Graph_Inputs.uasset",
-			"ChunkId": "154c53731d3dc70300000001"
 		},
 		{
 			"Path": "Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset",
@@ -2611,12 +2635,6 @@
 			]
 		},
 		{
-			"Name": "/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Graph_Inputs",
-			"ExportBundleChunkIds": [
-				"154c53731d3dc70300000001"
-			]
-		},
-		{
 			"Name": "/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane",
 			"ExportBundleChunkIds": [
 				"7b9c08e592b6f57800000001"
@@ -4537,9 +4555,27 @@
 			]
 		},
 		{
+			"Name": "/Game/Widgets/Interface/boton2_azul",
+			"ExportBundleChunkIds": [
+				"5cc7841e6b78bc1500000001"
+			]
+		},
+		{
+			"Name": "/Game/Widgets/Interface/boton3_amarillo",
+			"ExportBundleChunkIds": [
+				"055fcffa60ff7d5f00000001"
+			]
+		},
+		{
 			"Name": "/Game/Widgets/Interface/boton_cuadrado1_amarillo",
 			"ExportBundleChunkIds": [
 				"de8aa49edca8bf2500000001"
+			]
+		},
+		{
+			"Name": "/Game/Widgets/Interface/Controles",
+			"ExportBundleChunkIds": [
+				"1bd14a34cac974d300000001"
 			]
 		},
 		{
@@ -4567,6 +4603,12 @@
 			]
 		},
 		{
+			"Name": "/Game/Widgets/Interface/modal_chico_amarillo",
+			"ExportBundleChunkIds": [
+				"b7f35472e63f928500000001"
+			]
+		},
+		{
 			"Name": "/Game/Widgets/Interface/modal_chico_azul",
 			"ExportBundleChunkIds": [
 				"7ddd9e780468b73b00000001"
@@ -4588,6 +4630,24 @@
 			"Name": "/Game/Widgets/Interface/silueta2",
 			"ExportBundleChunkIds": [
 				"131819017dfddb2e00000001"
+			]
+		},
+		{
+			"Name": "/Game/Widgets/Menu_cfg",
+			"ExportBundleChunkIds": [
+				"333217741e6e513000000001"
+			]
+		},
+		{
+			"Name": "/Game/Widgets/W_controles",
+			"ExportBundleChunkIds": [
+				"5aeb5ebe8f9e709800000001"
+			]
+		},
+		{
+			"Name": "/Game/Widgets/W_creditos",
+			"ExportBundleChunkIds": [
+				"ca02bc9b61332fb000000001"
 			]
 		},
 		{
